@@ -1,5 +1,5 @@
 {
-    "name": "zurtr/flarum-ext-onesignal",
+    "name": "desmothenes/flarum-ext-onesignal",
     "description": "Adds Web Push notification feature to flarum",
     "type": "flarum-extension",
     "require": {
